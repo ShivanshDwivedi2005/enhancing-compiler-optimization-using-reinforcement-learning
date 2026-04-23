@@ -111,7 +111,6 @@ The RL-based approach outperforms the heuristic baseline.
 ## Authors
 
 Shivansh Dwivedi (BT23CSE124)  
-Soumil Verma (BT23CSE137)  
 
 Faculty: Dr. Khushboo Jain  
 College: Indian Institute of Information Technology  
@@ -120,4 +119,4 @@ College: Indian Institute of Information Technology
 
 ## Note
 
-This project demonstrates that reinforcement learning can learn adaptive optim
+This project demonstrates that reinforcement learning can learn adaptive optimization strategies that outperform fixed heuristics.
